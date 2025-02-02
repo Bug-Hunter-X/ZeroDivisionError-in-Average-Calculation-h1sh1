@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python:  handling empty lists when calculating averages. The `bug.py` file contains the erroneous code, while `bugSolution.py` shows the correct way to avoid a `ZeroDivisionError`.
